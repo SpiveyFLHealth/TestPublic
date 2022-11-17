@@ -1,0 +1,12 @@
+Trace #### You've got yourself a remote Qlik load script!!;
+
+[TestTable]:
+Load * Inline [
+colA  , colB  , NumberStuff
+X     , oqiwyeorwe  , 623956
+Y     , ouyweriuy   , 96384
+Z     , nbxbwmenrb  , 4253
+];
+
+Let vTester = 'Austin is loading this at ' & Now();
+
